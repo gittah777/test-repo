@@ -1,0 +1,16 @@
+1. Saving Flash files from Firefox
+
+Method # 1
+
+a. Click Tools – Page Info
+b. Click the Media Tab on the Page Info Windows
+c. The media tab has a complete list (with preview) of Images, CSS Files and Shockwave Flash files that were downloaded by the Firefox browser while rendering (loading) the page.
+d. Scroll down the list and locate the swf file.
+e. Click the “Save As” button. Select some directory on your hard drive and save the file (No need for a third-party plug-in)
+
+Method # 2
+
+a. Type about:blank in the Firefox address bar
+b. Now click List cache entries or directly type about:cache?device=disk (Disk cache device)
+c. Press Ctrl+F and try to location the flash file by typing some part of website URL or the flash file name or just .swf. After some hit and trial, you should be able to locate the swf file URL
+d. Click the SWF URL to open the Cache Entry Information page. Right click on the link and choose “Save link as”

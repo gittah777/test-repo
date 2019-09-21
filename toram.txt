@@ -1,0 +1,36 @@
+shot skill
+			10
+	5
+5
+	5	5	1
+
+
+5	5
+
+
+magic skill
+	5	5	7
+5
+
+
+1
+
+Support (optional)
+
+Mini heal 10
+
+Mononofu skill
+5	5	5	10
+5		5	10
+5			10
+	7	10
+
+Halberd Skill
+Quick aura 10
+
+
+
+Combo
+moeba = smoke dust (save) = meikyo shishui (con) = hasso happa (smite) = triple thrust (con)
+moeba =	smoke dust = magic impact (con) = sneak attack (swift) = meikyo = snipe (smite) = para shot (con)
+pulse blade = magic impact

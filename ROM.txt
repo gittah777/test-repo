@@ -1,0 +1,53 @@
+champ stats
+str 70
+agi 99
+dex 20 (60 with equip bonus)
+rest vit/int/luk
+
+
+vit mvp hunt
+int farming
+
+aco
+bless 10
+inc agi 10
+mace master 10 if mace
+3 heal
+1 holy strike
+1 ruwach
+5 light shield
+10 kyrie
+
+monk
+call spirit 5
+zen 1
+triple attack 10 (early game)
+9 iron fist
+1 body relocation
+(mid game)
+critical evation 5
+flee 5
+steel body 5
+spirit recovery 5
+investigate 4
+
+champ
+pre emptive strike 10
+inv 1
+finger offensive 5
+spirit bomb refine 1
+crit exp 10
+fist refi 5
+blade stop 5
+ki explos 3
+
+
+1-22 quests
+22-27 wormtail
+28-40 skeleton/thara frog
+40-45 gob hornets
+45-55 metaller
+55-75 mantis mino
+75-85 orc war orc arch
+85-88 sting
+88 punk orc lady
